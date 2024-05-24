@@ -1,4 +1,5 @@
 ## Hi there! I'm Karan Chaudhary 👋
+![Profile Views](https://komarev.com/ghpvc/?username=danger-coder&color=brightgreen)
 
 ### About Me
 I'm a passionate Front-End Developer specializing in creating stunning, responsive web applications. I love exploring new technologies and continuously improving my skills.
